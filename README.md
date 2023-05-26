@@ -9,7 +9,7 @@
 ## Tech Stack 
 ### React Js 
 
-Deployed Link &rarr; [Link]()
+Deployed Link &rarr; [Link](https://tic-tac-toe-using-reactt.netlify.app/)
 
 ## Sample 
 ![](./React%20App%20%E2%80%94%20Mozilla%20Firefox%202023-05-26%2016-33-16.gif)
